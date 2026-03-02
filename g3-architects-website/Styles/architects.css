@@ -114,6 +114,10 @@ main>section{
     margin-bottom:32px;
 
 }
+/* Some facts related styles */
+.fact-card{
+  border: 1px solid #ff900e;
+}
 /* Responsive media query */
 @media screen and (max-width: 576px) {
     .navbar, .nav-link, .teams{
